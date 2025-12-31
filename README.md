@@ -20,7 +20,7 @@ The application is built with **Spring Boot**, making it suitable for use cases 
 - **Backend:** Java, Spring Boot  
 - **Database:** MongoDB  
 - **API:** RESTful services  
-- **Build Tool:** Maven / Gradle  
+- **Build Tool:** Maven  
 
 ---
 
