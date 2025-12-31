@@ -26,14 +26,12 @@ The application is built with **Spring Boot**, making it suitable for use cases 
 
 ## 📂 Use Cases
 - Survey and feedback systems  
-- Registration and onboarding forms  
+- Registration 
 - Internal admin tools  
-- Custom data collection platforms  
 
 ---
 
 ## 📈 Future Improvements
-- Authentication and authorization
 - Form versioning
 - Role-based access control
 - Export submissions (CSV / JSON)
